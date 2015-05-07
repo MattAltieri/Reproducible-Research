@@ -16,10 +16,10 @@
 - Reproducible Research: Make analytic data and code available so that others may reproduce findings
 
 ## How can we bridge the gap?
-![](aslfkjaslkjdfa.jpg)
+![](aslfkjaslkjdfa.JPG)
 
 ## How can we bridge the gap?
-![](asfasfsdaf.jpg)
+![](asfasfsdaf.JPG)
 
 ## Why Do We Need Reproducible Research?
 - New technologies are increasing data collection throughput; data are more complex and extremely high dimensional
@@ -34,16 +34,16 @@
 - Complex statistical methods are needed and subjected to intense scrutiny
 
 ## Internet-based Health and Air Pollution Surveillance System (iHAPSS)
-![](asfasgsdffgedfg.jpg)
+![](asfasgsdffgedfg.JPG)
 [http://www.ihapss.jhsph.edu](http://www.ihapss.jhsph.edu)
 
 ## Research Pipline
-![](uihuihbkjn.jpg)
+![](uihuihbkjn.JPG)
 
 ## Recent Developments in Reproducible Research
-![](etgnmlknm.jpg)
+![](etgnmlknm.JPG)
 
-![](dgkjadnhfasjlkfj.jpg)
+![](dgkjadnhfasjlkfj.JPG)
 
 ![](bbbbbb.jpb)
 

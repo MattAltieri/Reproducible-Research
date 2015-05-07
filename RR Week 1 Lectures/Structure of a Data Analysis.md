@@ -18,7 +18,7 @@
 > Ask yourselves, what problem have you solved, ever, that was worth solving, where you knew all of the given information in advance? Where you didn't have a surplus of information and have to filter it out, or you had insufficient information and have to go find some? - [Dan Myer, Mathematics Educator](http://www.ted.com/talks/dan_meyer_math_curriculum_makeover)
 
 ## Defining a question
-![](sdflasjlfkjsadl.jpg)
+![](sdflasjlfkjsadl.JPG)
 1. Statistical methods development
 2. [Danger zone!!!](http://drewconway.com/zia/?p=2378)
 3. Proper data analysis
@@ -39,7 +39,7 @@ Can I use quantitative characteristics of the emails to classify them as spam?
 	- Mechanistic - data about all components of the system
 
 ## Our example
-![](aegjslkdjf.jpg)
+![](aegjslkdjf.JPG)
 [http://www.google.com/about/datacenters/inside/](http://www.google.com/about/datacenters/inside/)
 
 ## Determine what data you can access
@@ -49,10 +49,10 @@ Can I use quantitative characteristics of the emails to classify them as spam?
 - If the data don't exist, you may need to generate it yourself
 
 ## Back to our example
-![](asojfdsflm.jpg)
+![](asojfdsflm.JPG)
 
 ## A possible solution
-![](lijewgiofjsfd.jpg)
+![](lijewgiofjsfd.JPG)
 [http://archive.ics.uci.edu/ml/datasets/Spambase](http://archive.ics.uci.edu/ml/datasets/Spambase)
 
 ## Obtain the data
@@ -62,7 +62,7 @@ Can I use quantitative characteristics of the emails to classify them as spam?
 - If you will load the data from an internet source, record the url and time accessed
 
 ## Our dataset - comes with the `kernlab` package in R
-![](aaaaaaaaa.jpg)
+![](aaaaaaaaa.JPG)
 [http://search.r-project.org/library/kernlab/html/spam.html](http://search.r-project.org/library/kernlab/html/spam.html)
 
 ## Clean the data
@@ -337,5 +337,5 @@ predictedSpam nonspam spam
 	- Why logistic regression?
 
 ## Create reproducible code
-![](sfjaslkjasf.jpg)
+![](sfjaslkjasf.JPG)
 
