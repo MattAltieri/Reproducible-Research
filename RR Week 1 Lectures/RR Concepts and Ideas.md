@@ -45,7 +45,7 @@
 
 ![](dgkjadnhfasjlkfj.JPG)
 
-![](bbbbbb.jpb)
+![](bbbbbb.JPG)
 
 ## The Institute of Medicine (IOM) Report
 ##### In the Discover/Test Validation stage of omics-based tests:
