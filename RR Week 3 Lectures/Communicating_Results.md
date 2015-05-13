@@ -1,0 +1,34 @@
+# Reproducible Research: Communicating Results
+### Specifying Levels of Detail
+
+## tl;dr
+- People are busy, especially managers and leaders
+- Results of data analyses are sometimes presented in oral form, but often the first cut is presented via email
+- It is often useful to break down the results of an analysis into different levels of granularity/detail
+- Getting responses from busy people: [http://goo.gl/sJDb9V](http://goo.gl/sJDb9V)
+
+## Hierarchy of Information: Research Paper
+- Title & author list
+- Abstract
+- Body / results
+- Supplementary materials (the gory details)
+- Code / data (really gory details)
+
+## Hierarchy of Information: Email Presentation
+- Subject line & sender info
+    - At a minimum, include one
+    - Can you summarize findings in one sentence?
+- Email body
+    - A brief description of the problem / context
+    - Recall what was proposed and executed
+    - Summarize findings / results
+    - 1-2 paragraphs
+    - If action needs to be taken as a result of this presentation, suggest some options and make them as concrete as possible
+    - If questions need to be addressed, try to make them yes/no
+- Attachments(s)
+    - R Markdown file
+    - `knitr` report
+    - Stay concise; don't spit out pages and pages of code or results (because you used `knitr` we know it's available)
+- Links to supplementary materials
+    - Code / software / data
+    - GitHub repository / project websize
